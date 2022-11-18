@@ -2,3 +2,6 @@ MY RESOLUSI
 -Belajar HTML
 -Belajar CSS
 -Belajar JS
+*JS Dasar
+*JS Dom
+*JS Lanjutan
