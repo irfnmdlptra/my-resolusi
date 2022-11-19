@@ -3,6 +3,7 @@ TARGET BELAJAR
 *ES6
 *Framework Javascript
  >vue
+ >React
  -Struktur Data Dasar
  -PHP Framework
  >Laravel
