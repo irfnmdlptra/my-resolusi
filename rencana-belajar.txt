@@ -1,5 +1,12 @@
 TARGET BELAJAR
--Minimal 8 JAM
--Riview 1x SEMINGGU
--Framework Javascript
--
+-Javacript
+*ES6
+*Framework Javascript
+ >vue
+ >React
+ -Struktur Data Dasar
+ -PHP Framework
+ >Laravel
+ -Interview
+ -Vlog
+-python
