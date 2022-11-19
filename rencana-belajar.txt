@@ -1,10 +1,14 @@
 TARGET BELAJAR
--Javascript
+
+-Javacript
 *ES6
-*Framewok Javascript
-  >Magular
-  >React
--PHP Frameworks
-  >Laravel
--Interview
--Vlogs
+*Framework Javascript
+ >vue
+ >React
+ -Struktur Data Dasar
+ -PHP Framework
+ >Laravel
+ -Interview
+ -Vlog
+-python
+
